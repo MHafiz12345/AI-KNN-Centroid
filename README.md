@@ -48,7 +48,8 @@ Multiple distance metrics are implemented from scratch to explore their effect o
 
 ### 📏 Mahalanobis Distance
 
-![Mahalanobis Distance Formula](https://github.com/user-attachments/assets/a97f3e87-ddd2-4cca-a8d3-0e8f7aa22a5f)
+![image](https://github.com/user-attachments/assets/a30cb734-1c0a-498b-a4f4-33962e79866a)
+
 
 ## 🧠 Models Implemented
 
